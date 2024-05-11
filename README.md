@@ -1,5 +1,7 @@
-# www.p1trushka.io - My personal website, blog and more
+**[petrushenko](https://)**
 
-Today we are goinfg to do smth
+my personal website
 
-This is my website made.
+<br>
+
+<samp>code is licensed under <a href='./LICENSE'>MIT</a>,<br> words and images are licensed under <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0</a></samp>.

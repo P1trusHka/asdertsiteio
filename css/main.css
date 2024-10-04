@@ -21,7 +21,7 @@ p{
     text-decoration: none;
 }
 .linkto::hover{
-    color: blue;
+    color: rgba(0, 0, 255, 0.675);
     cursor: active;
 }
 
